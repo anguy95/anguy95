@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- CEO of Meta
+- First employee of Apple
+- Creator of 1's and 0's
 <!--
 **anguy95/anguy95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
