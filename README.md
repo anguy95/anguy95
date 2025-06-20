@@ -1,8 +1,4 @@
-### Hi there 👋
-
-- CEO of Meta
-- First employee of Apple
-- Creator of 1's and 0's
+👋 Hi, I'm Andrew — Head of Product, design-driven builder, and e-commerce optimist.
 <!--
 **anguy95/anguy95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
