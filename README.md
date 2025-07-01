@@ -1,4 +1,4 @@
-👋 Hi, I'm Andrew — Head of Product, design-driven builder, and e-commerce optimist.
+👋 Hi, I'm Andrew — Head of Product @Pack, design-driven builder, and e-commerce optimist.
 <!--
 **anguy95/anguy95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
